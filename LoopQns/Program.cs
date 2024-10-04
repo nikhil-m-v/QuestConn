@@ -37,6 +37,7 @@ namespace LoopQns
 
                 
                 Console.WriteLine();
+                Console.Write(" ");
             }
             Console.ReadLine();
             }
